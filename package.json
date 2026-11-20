@@ -1,0 +1,9 @@
+{
+  "name": "obstacle-land-multi",
+  "version": "1.0.0",
+  "description": "Serveur multijoueur d'Obstacle Land (salons, amis, relais de positions)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" },
+  "engines": { "node": ">=18" }
+}
